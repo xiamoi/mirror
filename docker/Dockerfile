@@ -1,1 +1,1 @@
-FROM docker.io/sismics/docs:v1.11
+FROM docker.io/sismics/docs:latest
