@@ -1,1 +1,1 @@
-FROM docker.io/sismics/docs:latest
+FROM docker.io/leantime/leantime:2.3.14
