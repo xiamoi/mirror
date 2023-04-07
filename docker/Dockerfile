@@ -1,1 +1,1 @@
-FROM docker.io/leantime/leantime:2.3.14
+FROM docker.io/openproject/community:12
